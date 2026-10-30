@@ -1,2 +1,3 @@
 # it-lernnotizen
-Einfache Notizen zum Lernen
+Tag 1 Linux Rechte & Benutzer
+Tag 3 Linux Pakete & Dienste
